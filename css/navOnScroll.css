@@ -1,0 +1,27 @@
+header nav {
+  color: #000;
+  background-color: #fff;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+header nav .logo img#imgDark {
+  display: block;
+}
+
+header nav .logo img#imgWhite {
+  display: none;
+}
+
+header nav .links a {
+  color: #bebebe;
+}
+
+header nav .links a:first-child {
+  color: #000;
+}
+
+header nav .links a:hover {
+  color: #000;
+}
